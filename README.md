@@ -1,5 +1,8 @@
 # UY-Cloud
 UY云是新的第三方多功能，稳定的后台管理系统   
+Anroid:已开发；
+Web：即将完成；
+Ios：待开发；
 # 官方
 官方下载：http://yun.jfkj.xyz
   ##  应用介绍：
