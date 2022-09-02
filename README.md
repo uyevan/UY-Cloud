@@ -1,4 +1,4 @@
-# UY-Cloud
+# UY云
 UY云是新的第三方多功能，稳定的后台管理系统   
 Anroid:已开发；
 Web：即将完成；
@@ -26,6 +26,36 @@ UY云是一款新的应用管理系统，是用来管理应用，小程序，网
 15-自定义API模块  
 16-...  
  刚刚起步，会有不完善的地方，我们会向往为用户提供更多更良好的服务。  
+ 
+ # UY Cloud
+ UY Cloud is a new third-party multi-functional and stable background management system   
+Android: developed;
+Web: nearing completion;
+Ios: to be developed;
+# Official
+Official download: http://yun.jfkj.xyz
+  # Application introduction:
+UY Cloud is a new application management system, which is used to manage applications, Mini Programs, websites, etc. UY Cloud can be understood as a third-party management application. At present, Android and Hongmeng versions have been developed, and Apple versions are under development.
+  UY cloud can be customized management applications, we provide user management, update modules, notifications and other practical and commonly used module functions, we will try our best to optimize and provide more Cloud as a Service in the future.
+  # Software core services:
+1- User Management Module  
+2- Update and announcement module  
+3- Application Notification Module  
+4-HTML Documentation Module  
+5-TEXT Documentation Module  
+6-Mall module  
+7- Application Module  
+8-Movie Module  
+9- Application Hosting Module  
+10-Carmel Module  
+11-Cloud disk module  
+12-Robot Module  
+13- Resource Module  
+14-Forum Module  
+15- Custom API Module  
+16-...  
+ Just started, there will be imperfections, we will yearn to provide users with more and better services. 
+ 
 ![c1cf1cb5-7766-4dec-bcea-cbeb6d7adef2](https://user-images.githubusercontent.com/92195051/188055893-476261cb-8fc8-4ae8-b927-2c87148ab363.jpg)
 ![c5c04831-c2e0-48a7-ac7f-3f073a4c1f21](https://user-images.githubusercontent.com/92195051/188055905-d406301a-7a05-45de-be51-d772efafee87.jpg)
 ![dd02ebf4-d329-4ce6-8937-ed128e6d0e63](https://user-images.githubusercontent.com/92195051/188055914-43f8a48b-5db6-45f3-9690-fa43610aac6e.jpg)
